@@ -1,6 +1,6 @@
 {
   "name": "@freik/ts-tooling",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Typescript Tooling for other repositories",
   "main": "index.js",
   "repository": "https://github.com/kevinfrei/ts-tooling.git",
